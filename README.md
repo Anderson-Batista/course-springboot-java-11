@@ -7,7 +7,7 @@ e em seguida é feita uma ordem/pedido de compra.
 ## Domain Model
 ![img1](https://github.com/Anderson-Batista/course-springboot-java-11/blob/master/assets/domain_model.png)
 
-## Domain Instnace
+## Domain Instance
 ![img1](https://github.com/Anderson-Batista/course-springboot-java-11/blob/master/assets/domain_instance.png)
 
 ## Logical Layers
